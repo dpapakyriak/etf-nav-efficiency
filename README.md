@@ -38,7 +38,7 @@ The analysis uses daily data (2017–present) for:
 - **Trading Volume**  
 - Optional: underlying index prices for price-discovery extensions  
 
-Data is loaded from a multi-sheet Excel file, where each sheet corresponds to an ETF.
+Data are from Bloomberg terminal, where each sheet corresponds to an ETF.
 
 ---
 
